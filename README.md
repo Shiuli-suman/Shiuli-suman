@@ -35,29 +35,60 @@
  ### 👨‍💻 Technical Skill's
 
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172832.png"></code> 
+<p>Operating System</p>
+
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png"></code>
+<p>Linux</p>
+
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png"></code>
+<p>SQL</p>
+
 <code><a href="#"><img width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxUM1nvIPqgPottxav1_OitE3aK5FvIKCDOQ&usqp=CAU"></code>
+<p>VS Code</p>
+
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/919/919827.png"></code>
+<p>HTML</p>
+
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></code>
+<p>CSS</p>
+
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png"></code>
+<p>JAVASCRIPT</p>
 
 </br>
 
 ### 🧰 Customer Service Skill's
 
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4233/4233834.png"></code>
+<p>Technical Support</p>
+
 <code><img width="8%" src="https://t4.ftcdn.net/jpg/02/10/34/49/240_F_210344929_D1n6WjwyfwyB1iPclLR7k3h0EKQ87qJB.jpg"></code>
+<p>Troubleshooting</p>
+
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/7179/7179055.png"></code>
+<p>Creative Thinking</p>
+
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/3051/3051663.png"></code>
+<p>Empathy</p>
+
 </br>
 
 ### 🗄️ Soft Skill's
 
 
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/608/608968.png"></code>
+<p>Communication</p>
+
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4486/4486525.png"></code>
+<p>Adaptability</p>
+
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5371/5371115.png"></code>
+<p>Teamwork</p>
+
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/1389/1389173.png"></code>
+<p>Creative Thinking</p>
+
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5201/5201809.png"></code>
+<p>Interpersonal Skills</p>
 
 </br>
