@@ -57,22 +57,6 @@
 
 </br>
 
-### 🧰 Customer Service Skill's
-
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4233/4233834.png"></code>
-<p>Technical Support</p>
-
-<code><img width="8%" src="https://t4.ftcdn.net/jpg/02/10/34/49/240_F_210344929_D1n6WjwyfwyB1iPclLR7k3h0EKQ87qJB.jpg"></code>
-<p>Troubleshooting</p>
-
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/7179/7179055.png"></code>
-<p>Creative Thinking</p>
-
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/3051/3051663.png"></code>
-<p>Empathy</p>
-
-</br>
-
 ### 🗄️ Soft Skill's
 
 
@@ -90,5 +74,6 @@
 
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5201/5201809.png"></code>
 <p>Interpersonal Skills</p>
+<style>display:flex</style>
 
 </br>
