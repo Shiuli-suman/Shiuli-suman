@@ -34,8 +34,8 @@
 
  ### 👨‍💻 Technical Skill's
  
-
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172832.png"></code> 
+<div display:flex>
+<div><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172832.png"></div> 
 
 
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png"></code>
@@ -54,7 +54,7 @@
 
 
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png"></code>
-
+</div>
 
 </br>
   
