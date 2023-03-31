@@ -34,26 +34,26 @@
 
  ### 👨‍💻 Technical Skill's
  
-<div display:flex>
+<div style="display : flex;">
 <div><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172832.png"></div> 
 
 
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png"></code>
+<div><img width="8%" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png"></div>
 
 
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png"></code>
+<div><img width="8%" src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png"></div>
 
 
-<code><a href="#"><img width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxUM1nvIPqgPottxav1_OitE3aK5FvIKCDOQ&usqp=CAU"></code>
+<div><img width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxUM1nvIPqgPottxav1_OitE3aK5FvIKCDOQ&usqp=CAU"></div>
 
 
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/919/919827.png"></code>
+<div><img width="8%" src="https://cdn-icons-png.flaticon.com/128/919/919827.png"></div>
 
 
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></code>
+<div><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></div>
 
 
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png"></code>
+<div><img width="8%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png"></div>
 </div>
 
 </br>
