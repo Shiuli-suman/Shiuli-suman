@@ -54,7 +54,7 @@
 
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png">
-</div>
+
 
 </br>
   
@@ -75,6 +75,6 @@
 
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5201/5201809.png"></code>
 <p>Interpersonal Skills</p>
-
+</div>
 
 </br>
