@@ -55,12 +55,13 @@
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png">
 <p>Javascript</p>
-
+</div>
 
 </br>
   
 ### 🗄️ Soft Skill's
 
+<div style="display : flex;">
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/3050/3050525.png">
 <p>Communication</p>
