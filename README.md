@@ -36,25 +36,25 @@
  
 <div style="display : flex;">
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172832.png">
-<p>OS</p>
+
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png">
-<p>Linux</p>
+
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png">
-<p>SQL</p>
+
 
 <img width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxUM1nvIPqgPottxav1_OitE3aK5FvIKCDOQ&usqp=CAU">
-<p>VS Code</p>
+
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/919/919827.png">
-<p>HTML</p>
+
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png">
-<p>CSS</p>
+
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png">
-<p>Javascript</p>
+
 </div>
 
 </br>
