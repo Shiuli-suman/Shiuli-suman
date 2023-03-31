@@ -35,25 +35,25 @@
  ### 👨‍💻 Technical Skill's
  
 <div style="display : flex;">
-<div><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172832.png"></div> 
+<img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172832.png">
 
 
-<div><img width="8%" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png"></div>
+<img width="8%" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png">
 
 
-<div><img width="8%" src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png"></div>
+<img width="8%" src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png">
 
 
-<div><img width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxUM1nvIPqgPottxav1_OitE3aK5FvIKCDOQ&usqp=CAU"></div>
+<img width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxUM1nvIPqgPottxav1_OitE3aK5FvIKCDOQ&usqp=CAU">
 
 
-<div><img width="8%" src="https://cdn-icons-png.flaticon.com/128/919/919827.png"></div>
+<img width="8%" src="https://cdn-icons-png.flaticon.com/128/919/919827.png">
 
 
-<div><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></div>
+<img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png">
 
 
-<div><img width="8%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png"></div>
+<img width="8%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png">
 </div>
 
 </br>
