@@ -36,47 +36,49 @@
  
 <div style="display : flex;">
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172832.png">
-
+<h4>OS</h4>
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png">
-
+<h4>Linux</h4>
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png">
+<h4>SQL</h4>
 
 
 <img width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxUM1nvIPqgPottxav1_OitE3aK5FvIKCDOQ&usqp=CAU">
+<h4>VS Code</h4>
 
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/919/919827.png">
-
+<h4>HTML</h4>
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png">
-
+<h4>CSS</h4>
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png">
-
+<h4>Javascript</h4>
 </div>
 
 </br>
   
 ### 🗄️ Soft Skill's
 
-
+<div style="display : flex;">
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/3050/3050525.png">
-<p>Communication</p>
+<h4>Communication</h4>
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/4486/4486525.png">
-<p>Adaptability</p>
+<h4>Adaptability</h4>
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/5371/5371115.png">
-<p>Teamwork</p>
+<h4>Teamwork</h4>
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/1389/1389173.png">
-<p>Creative Thinking</p>
+<h4>Creative Thinking</h4>
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/5201/5201809.png">
-<p>Interpersonal Skills</p>
+<h4>Interpersonal Skills</h4>
 
-
+</div>
 </br>
