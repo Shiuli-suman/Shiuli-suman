@@ -13,7 +13,7 @@
 
 - 💬 Ask me about ` OS, Linux, SQL, Shell Script, HTML, CSS.`
 
-- 📄 Know about me <a href="https://drive.google.com/file/d/11sTXdRokfssqzZkMkmEgFq93vfPKQwus/view?usp=share_link ">Shiuli's Resume</a>
+- 📄 Know about me <a href="https://drive.google.com/file/d/1UgGM7mT0UfWmxwaZ3iicYPK6glQkwH77/view?usp=share_link ">Shiuli's Resume</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Shiuli-suman/Shiuli-suman.github.io">Shiuli's Portfolio</a>
 
