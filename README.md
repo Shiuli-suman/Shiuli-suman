@@ -64,16 +64,16 @@
 
 <p>Communication</p>
 
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4486/4486525.png"></code>
+<img width="8%" src="https://cdn-icons-png.flaticon.com/128/4486/4486525.png">
 <p>Adaptability</p>
 
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5371/5371115.png"></code>
+<img width="8%" src="https://cdn-icons-png.flaticon.com/128/5371/5371115.png">
 <p>Teamwork</p>
 
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/1389/1389173.png"></code>
+<img width="8%" src="https://cdn-icons-png.flaticon.com/128/1389/1389173.png">
 <p>Creative Thinking</p>
 
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5201/5201809.png"></code>
+<img width="8%" src="https://cdn-icons-png.flaticon.com/128/5201/5201809.png">
 <p>Interpersonal Skills</p>
 </div>
 
