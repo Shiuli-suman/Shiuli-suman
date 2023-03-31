@@ -54,7 +54,7 @@
 <p>CSS</p>
 
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png"></code>
-<p>JAVASCRIPT</p>
+
 
 </br>
   
@@ -75,6 +75,6 @@
 
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5201/5201809.png"></code>
 <p>Interpersonal Skills</p>
-<style>display:flex</style>
+
 
 </br>
