@@ -61,7 +61,7 @@
   
 ### 🗄️ Soft Skill's
 
-<div style="display : flex;">
+
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/3050/3050525.png">
 <p>Communication</p>
@@ -77,6 +77,6 @@
 
 <img width="8%" src="https://cdn-icons-png.flaticon.com/128/5201/5201809.png">
 <p>Interpersonal Skills</p>
-</div>
+
 
 </br>
