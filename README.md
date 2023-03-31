@@ -33,6 +33,7 @@
  ## Skills : 
 
  ### 👨‍💻 Technical Skill's
+ <code display="flex">
 
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172832.png"></code> 
 <p>Operating System</p>
@@ -56,7 +57,7 @@
 <p>JAVASCRIPT</p>
 
 </br>
-
+  </code>
 ### 🗄️ Soft Skill's
 
 
